@@ -9,7 +9,7 @@ Script feito para fins de estudo e testes autorizados.
 Clone o projeto
 
 ```bash
-  git clone https://github.com/takeoverdll/doser
+  git clone https://github.com/takew00xtz/doser
 ```
 
 Entre no diretório do projeto
